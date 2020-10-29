@@ -15,9 +15,9 @@ The purpose of this test is to to check the functionalities of the calculator fu
 ### Test Files 
 **conf.js** - contains the configuration files to run the test by giving the test file names inside the specs. (**specs: ['../tests/calculator.js']**)
 
-**homepage.js**- contains **Page Object Model** with element locators and required actions
+**/pages/homepage.js**- contains **Page Object Model** with element locators and required actions
 
-**calculator.js** - main test script which calls the methods to run the test for the appropriate test cases.  There are two test cases included within the **it** *block*, first test case is to pass the test, however second test case is to fail intentionally to see how HTML reports display the failures.
+**/tests/calculator.js** - main test script which calls the methods to run the test for the appropriate test cases.  There are two test cases included within the **it** *block*, first test case is to pass the test, however second test case is to fail intentionally to see how HTML reports display the failures.
 
 ### Step 1: Run the test - Run the conf.js
 Go to commandline > Project Destination Folder> ProtractorDemo > **protractor .\conf\conf.js**
