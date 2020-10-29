@@ -6,9 +6,9 @@ The purpose of this test is to to check the functionalities of the calculator fu
 
 ### Technologies
 
-**Node v12.19.0**
-**npm 6.14.8**
-**Protractor 7.0.0**
+**Node v12.19.0** |
+**npm 6.14.8** |
+**Protractor 7.0.0** |
 **Jasmine 3.6.2**
 
 
