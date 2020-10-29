@@ -12,8 +12,8 @@ The purpose of this test is to to check the functionalities of the calculator fu
 **Jasmine 3.6.2**
 
 
-### Test Files ( all in .js)
-**conf.js** - contains the configuration files to run the test called *calculator.js* (specs: ['../tests/calculator.js'])
+### Test Files 
+**conf.js** - contains the configuration files to run the test by giving the test file names inside the specs. (**specs: ['../tests/calculator.js']**)
 
 **homepage.js**- contains **Page Object Model** with element locators and required actions
 
