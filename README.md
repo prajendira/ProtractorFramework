@@ -1,5 +1,9 @@
 # Project - Protractor Jasmine Framework 
 
+
+## Project Description
+The purpose of this test is to to check the functionalities of the calculator functions using protractor jasmine framework and generate HTML report and screenshots.
+
 ### Technologies
 
 **Node v12.19.0**
@@ -7,8 +11,6 @@
 **Protractor 7.0.0**
 **Jasmine 3.6.2**
 
-## Project Description
-The purpose of this test is to to check the functionalities of the calculator functions using protractor jasmine framework and generate HTML report and screenshots.
 
 ### Test Files ( all in .js)
 **conf.js** - contains the configuration files to run the test called *calculator.js* (specs: ['../tests/calculator.js'])
